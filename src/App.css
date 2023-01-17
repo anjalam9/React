@@ -1,27 +1,39 @@
 .Blue{
-  color:blue;
+  color:#0000FF;
 }
 
 .Red{
-  color:red;
+  color:#FF0000;
 }
 
 .Green{
-  color:green;
+  color:#008000;
 }
 
 .Yellow{
-  color:yellow;
+  color:#FFC800;
 }
 
 .Purple{
-  color:purple;
+  color:#800080;
 }
 
 .Orange{
-  color:orange;
+  color:#FFA500;
 }
 
 .Grey{
-  color:grey;
+  color:#808080;
+}
+
+.cardView{
+  border: 1px solid black;
+  margin: 10px;
+  padding: 5px;
+  width: 270px;
+}
+
+.userDetails{
+  display: flex;
+  flex-wrap: wrap;
 }

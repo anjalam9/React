@@ -14,7 +14,7 @@ function Colors(){
             <button type="button" onClick={()=>setColor('Yellow')}>
                 Yellow
             </button>
-            <button type="button" onClick={()=>setColor('Purple')}>
+            <button type="button" onClick={()=>setColor('Purple')} >
                 Purple
             </button>
             <button type="button" onClick={()=>setColor('Orange')}>
